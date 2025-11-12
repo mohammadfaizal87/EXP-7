@@ -1,7 +1,7 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
 ### NAME: MOHAMMAD FAIZAL SK
 ### REG NO:212223240092
-### DEPT: CSE(CYBER SECURITY)
+### DEPT: ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
 # Aim:
 # To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
